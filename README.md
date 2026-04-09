@@ -92,7 +92,8 @@ Excessive discounting is the primary driver of negative margins. High return rat
 
 ## 📸 Dashboard Preview
 
-<img width="1013" height="576" alt="Screenshot 2026-04-09 220411" src="https://github.com/user-attachments/assets/96743d71-2425-40c2-8645-2b89078a847c" />
+<img width="1005" height="572" alt="Screenshot 2026-04-09 220411" src="https://github.com/user-attachments/assets/2fbfbb05-a76d-4777-9a5a-690631b85305" />
+
 
 
 > **Tip:** Export screenshots from Power BI via **File → Export → Export to PNG** or use the Snipping Tool on each report page.
