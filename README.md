@@ -93,6 +93,10 @@ Excessive discounting is the primary driver of negative margins. High return rat
 ## 📸 Dashboard Preview
 
 <img width="1175" height="662" alt="Screenshot 2026-04-12 084755" src="https://github.com/user-attachments/assets/a829f516-d5bb-4997-a41f-4af43ef557ac" />
+
+
+
+
 ## Key Insights
 - Revenue increased steadily, but profit margin declined over time
 - High discount levels (up to 26%) significantly reduced profitability
