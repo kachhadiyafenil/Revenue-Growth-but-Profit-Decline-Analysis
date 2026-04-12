@@ -92,7 +92,7 @@ Excessive discounting is the primary driver of negative margins. High return rat
 
 ## 📸 Dashboard Preview
 
-<img width="1005" height="572" alt="Screenshot 2026-04-09 220411" src="https://github.com/user-attachments/assets/2fbfbb05-a76d-4777-9a5a-690631b85305" />
+<img width="1175" height="662" alt="Screenshot 2026-04-12 084755" src="https://github.com/user-attachments/assets/a829f516-d5bb-4997-a41f-4af43ef557ac" />
 
 
 
